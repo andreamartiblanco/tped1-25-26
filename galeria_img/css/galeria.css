@@ -1,0 +1,20 @@
+header {
+    background-color: rgb(49, 102, 72);
+    color: white;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+img {
+    width: 33%;
+    height: auto;
+    filter: saturate(0);
+}
+
+a:hover img {
+    filter: saturate(1);
+}
