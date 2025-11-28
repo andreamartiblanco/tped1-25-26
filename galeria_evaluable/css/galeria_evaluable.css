@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  background-color: rgb(161, 197, 156);
+}
+
+header {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  margin: 20px;
+  margin-bottom: 100px;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+}
+
+.padre {
+  display: flex;
+  background-color: rgb(161, 197, 156);
+  justify-content: space-evenly;
+}
+
+.container {
+  background-color: transparent;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.containerpng {
+  background-color: transparent;
+}
+
+h1 {
+  font-size: 60px;
+  margin-top: 80px;
+  text-align: center;
+  color: white;
+  font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+img {
+  filter: saturate(1);
+  width: 100%;
+  border-radius: 10px;
+}
+
+a:hover img {
+  filter: saturate(0);
+}
