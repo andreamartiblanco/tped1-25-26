@@ -1,0 +1,17 @@
+body {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 40pt;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  font-size: 20pt;
+  list-style: none;
+  font-size: 22pt;
+}
+
