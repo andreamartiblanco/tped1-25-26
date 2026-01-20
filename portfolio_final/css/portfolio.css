@@ -1,0 +1,69 @@
+.rosamb {
+  background-color: #f9d0e0;
+}
+
+.nopadding {
+  padding: 0;
+}
+
+.imgancho {
+  width: 100%;
+  padding: 0;
+}
+
+.header {
+  background-color: #ffffff;
+}
+
+.imginicio {
+  padding-bottom: 15px;
+}
+
+.espaciado {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.contacboton a:visited {
+  color: rgb(0, 0, 0);
+}
+
+.aboton a:visited {
+  color: white;
+}
+
+.altura {
+  height: 100%;
+}
+
+.dm-serif-display-regular {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.dm-serif-display-regular-italic {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+p {
+  font-size: 18px;
+}
+
+.contactolista{
+  list-style-type: none;
+}
+
+#contacto{
+  font-size: 22px;
+}
+
+#sobremi p{
+  font-size: 24px;
+}
